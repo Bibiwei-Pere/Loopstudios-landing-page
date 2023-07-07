@@ -8,7 +8,7 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 ### Links
 
-- [Live Site URL](https://Loopstudios01.netlify.app)
+- [Live Site URL](https://Loopstudios001.netlify.app)
 
 ### Built with
 
