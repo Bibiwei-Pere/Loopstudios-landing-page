@@ -300,7 +300,7 @@ svg {
         justify-content: space-between;
         right: 0;
         left: 0;
-        padding: 50px 30px 20px;
+        padding: 50px 20px 20px;
     }
 
     #menu {
@@ -398,21 +398,21 @@ svg {
 
 .hero {
     align-items: center;
-    padding: 0 30px;
+    padding: 0 20px;
     justify-content: center;
     background-image: url("/images/mobile/image-hero.jpg");
 }
 
 .hero h1 {
     width: 100%;
-    font-size: 33px;
+    font-size: 28px;
 }
 
 /* Second section */
 .second_section {
     display: flex;
     flex-direction: column;
-    margin: 100px 30px 0;
+    margin: 100px 20px 0;
     height: auto;
 }
 
@@ -432,6 +432,7 @@ svg {
 
 .wrapper_2 h2 {
     text-align: center;
+    font-size: 25px;
 }
 
 .wrapper_2 p {
@@ -441,7 +442,7 @@ svg {
 
 /* Third section */
 .third_section {
-    margin: 100px 30px 0;
+    margin: 100px 20px 0;
 }
 
 .wrapper_3 {
